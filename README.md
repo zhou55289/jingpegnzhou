@@ -1,8 +1,8 @@
-#周靖鹏的开源硬件作业
+# 周靖鹏的开源硬件作业
 
-##第一天
+## 第一天
 
-####学习内容
+#### 学习内容
 ·为什么要学习开源硬件
 ·如何学习开源硬件
 ·三个软件
@@ -18,7 +18,7 @@
 [fritzing网址](https://fritzing.org)
 [processing网址](https://processing.org)
 
-##第二天
+## 第二天
 
 arduino编程
 
@@ -134,7 +134,7 @@ void loop()
   }
 ···
 
-##第三天
+## 第三天
 
 七月四日
 课堂作业：小车电路图
@@ -145,7 +145,9 @@ void loop()
 ![](七位数码管/shumaguan.png)
 [代码](七位数码管/shumaguan.ino)
 
-##第四天
+## 第四天
 
 七月五日
-作业：四位数码管
+作业：Morse集合至一个项目中
+![](Morse2.0/Morse2.0.png)
+[代码](Morse2.0/Morse2.0.ino)
